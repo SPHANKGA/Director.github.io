@@ -207,38 +207,14 @@
 
 <section class="animate__animated animate__fadeIn" id="work-experience">
     <h2>Work Experience</h2>
-    <p>For your CV, here’s an example of how you might describe work experience related to working with computer systems:
-
-Work Experience:
-
-IT Support Specialist | XYZ Tech Solutions
-May 2022 – Present
-
-Provided technical support and troubleshooting for hardware and software issues across multiple departments.
-
-Managed and maintained computer systems, ensuring optimal performance and system security.
-
-Conducted system upgrades, installed new software, and handled network configurations.
-
-Trained staff on computer system best practices and usage, improving overall efficiency.
-
-Collaborated with cross-functional teams to improve system performance and implement new technologies.
-
-
-Systems Administrator | ABC Corporation
+    
+<p>Systems Administrator | ABC Corporation
 June 2020 – April 2022
-
 Administered and monitored company-wide computer systems, ensuring 99% uptime.
-
 Implemented security protocols, performed regular system backups, and maintained firewall configurations.
-
 Diagnosed and resolved technical issues, minimizing system downtime and increasing productivity.
-
 Led software deployment projects, including testing, installation, and troubleshooting across various platforms.
-
 Managed user accounts and permissions in Active Directory, ensuring proper access control.
-
-
 If this doesn't align with your experience, feel free to share specific roles or responsibilities, and I can help tailor it further.</p>
 </section>
 
