@@ -183,7 +183,8 @@
 
 <section class="cover animate__animated animate__fadeIn" id="home">
     <h2>Welcome to My CV</h2>
-    <img src="c:\Users\maset\OneDrive\Desktop\Camera\IMG_20231207_094959.jpg" alt="Dolly Mudau"> <!-- Replace with your actual image URL -->
+    <img src="![Uploading IMG_20231207_094959.jpg…]()" 
+        alt="Dolly Mudau"> <!-- Replace with your actual image URL -->
     <p>I'm Dolly Mudau. A full Stack Developer and Freelancer.</p>
 </section>
 
